@@ -8,6 +8,6 @@
 I have selected the **Housing Prices Dataset**. This dataset contains information about various houses, including their area, number of bedrooms, bathrooms, and location.
 
 ### Machine Learning Problem
-### **Problem Type:** Regression
-### **Target Variable:** Price
-### **Goal:** The model will learn to predict the price of a house based on features like area and number of rooms.
+#### Problem Type: **Regression**
+#### Target Variable: **Price**
+#### Goal: **The model will learn to predict the price of a house based on features like area and number of rooms.**
