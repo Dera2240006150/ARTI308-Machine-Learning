@@ -1,4 +1,4 @@
-# ARTI 308 - Machine Learning Labs
+# ARTI 308 - Machine Learning Lab 2
 **Student Name:** Dera Abdullah
 **ID:** 2240006150
 
