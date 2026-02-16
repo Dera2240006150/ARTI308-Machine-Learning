@@ -1,8 +1,4 @@
-# ARTI 308 - Machine Learning
+# Lab 1: Git & GitHub for Machine Learning
 
-### **Name:** Dera Aldosari
-### **Student ID:** 2240006150
-### **Section:** 6MY01
-
-## Course Overview
-This repository contains my laboratory work and assignments for the ARTI 308 Machine Learning course (Academic Year 2025/2026).
+## Lab Overview
+In this lab, I set up my development environment and learned how to manage machine learning projects using Git and GitHub.
