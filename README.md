@@ -1,8 +1,13 @@
-# ARTI 308 - Machine Learning
+# ARTI 308 - Machine Learning Lab 2
+### **Name:** Dera Abdullah
+### **ID:** 2240006150
 
-### **Name:** Dera Aldosari
-### **Student ID:** 2240006150
-### **Section:** 6MY01
+## Lab 2: Problem Identification and Dataset Selection
 
-## Course Overview
-This repository contains my laboratory work and assignments for the ARTI 308 Machine Learning course (Academic Year 2025/2026).
+### Dataset Description
+I have selected the **Housing Prices Dataset**. This dataset contains information about various houses, including their area, number of bedrooms, bathrooms, and location.
+
+### **Machine Learning Problem:**
+#### Problem Type: Regression
+#### Target Variable: Price
+#### Goal: The model will learn to predict the price of a house based on features like area and number of rooms.
