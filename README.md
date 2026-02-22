@@ -6,8 +6,10 @@
 This lab focuses on loading the Housing dataset and performing Exploratory Data Analysis (EDA) to understand feature distributions and relationships using Python.
 
 ## Files
-* **lab3.ipynb:** Jupyter Notebook containing the code for data loading, inspection, and visualization.
-* **Housing.csv:** The dataset used for the analysis.
+* **EDA.ipynb**
+* **Housing.csv**
+* **Matplotlib_Visualization.ipynb**
+* **Seaborn_Visualization.ipynb**
 
 ## Libraries Used
 * Pandas
