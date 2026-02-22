@@ -1,23 +1,18 @@
 # Lab 3: Data Understanding & EDA
 
-**Dataset:** Housing Prices Dataset
+**Dataset:** Housing Prices Dataset (`Housing.csv`)
 
 ## Overview
-This lab focuses on loading the Housing dataset and performing Exploratory Data Analysis (EDA) to understand feature distributions and relationships using Python.
+This repository contains a lab focused on Exploratory Data Analysis (EDA) of a housing dataset. It utilizes Python libraries (Pandas, NumPy, Matplotlib, Seaborn) to clean data, analyze statistical summaries, and visualize feature distributions and relationships.
 
-## Files
-* **EDA.ipynb**
-* **Matplotlib_Visualization.ipynb**
-* **Seaborn_Visualization.ipynb**
-* **Housing.csv**
+## Repository Contents
+* **`EDA.ipynb`**: Initial data exploration, cleaning, and categorical encoding for correlation analysis.
+* **`Matplotlib_Visualization.ipynb`**: Foundational plotting including scatter plots, histograms, and boxplots.
+* **`Seaborn_Visualization.ipynb`**: Advanced statistical visualizations like violin/swarm plots and correlation heatmaps.
+* **`Housing.csv`**: The raw dataset containing housing attributes and prices.
 
-## Libraries Used
-* Pandas
-* Matplotlib
-* Seaborn
-
-## Visualizations
-The notebook includes the following plots:
-1. **Histograms:** To visualize the distribution of house prices and other numerical features.
-2. **Box Plots:** To analyze price variances across categorical groups like furnishing status.
-3. **Correlation Heatmap:** To identify relationships between numerical variables.
+## Key Visualizations Included
+* **Distributions:** Histograms and box plots to show price frequencies and outliers.
+* **Relationships:** Scatter plots mapping price against area and room counts.
+* **Categorical Densities:** Violin, strip, and swarm plots for deeper category segmentation.
+* **Correlations:** Heatmaps to visualize relationships between all numerical variables.
