@@ -7,9 +7,9 @@ This lab focuses on loading the Housing dataset and performing Exploratory Data 
 
 ## Files
 * **EDA.ipynb**
-* **Housing.csv**
 * **Matplotlib_Visualization.ipynb**
 * **Seaborn_Visualization.ipynb**
+* **Housing.csv**
 
 ## Libraries Used
 * Pandas
