@@ -1,4 +1,4 @@
-# ARTI 308 – Lab 5: Feature Engineering (Classification) 🍔🛵
+# ARTI 308 – Lab 5: Feature Engineering (Classification) 
 
 ## Overview
 This repository contains the completed tasks for **Lab 5: Feature Engineering** in the ARTI 308 course. The objective of this lab is to build a baseline classification model to predict `Order_Status` (e.g., Delivered, Cancelled) using a Talabat-style food delivery dataset. 
