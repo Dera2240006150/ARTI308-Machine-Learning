@@ -12,11 +12,14 @@ Since the dataset was already clean (no missing values or duplicates), the prima
 ## Key Tasks & Implementations
 
 * **Base Preprocessing:** Engineered initial time-based features (order hour, weekend indicator) and price-based features (price per item). Implemented a vectorized Haversine distance function to calculate geographical distances.
-* 
+  
 * **Task 1: Spatial Feature Engineering:** * Created a new feature, `driver_to_rest_distance_km`, calculating the initial distance a driver must travel to reach the restaurant. This serves as a strong predictive signal for potential order delays or cancellations.
+  
 * **Task 2: Temporal Feature Engineering:** * Redefined the `is_peak_hour` rule to strictly target the evening dinner rush (18:00 - 22:00) to better capture high-traffic delays.
+  
 * **Task 3: Categorical Dimensionality Reduction:** * Experimented with the `top_k` threshold (10, 30, and 50) for the `Item_Name` feature.
   * Replaced less frequent items with an "Other" category to reduce the cardinality of the dataset before applying One-Hot Encoding. Evaluated how this affected model accuracy and feature importance.
+    
 * **Task 4: Feature Selection:** * Utilized Scikit-Learn's `SelectFromModel` with a median threshold to drop the bottom 50% of the least important features. 
   * Proved that dropping noisy/unimportant features maintains (or slightly improves) model accuracy while significantly reducing model complexity and training time.
 
