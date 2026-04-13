@@ -20,6 +20,3 @@ To run this notebook, you will need Python installed along with the following li
 2. Ensure the `advertising.csv` file is in the same directory as the Jupyter Notebook.
 3. Open `02-Logistic Regression Assignment.ipynb` using Jupyter Notebook or JupyterLab.
 4. Run all cells to view the data visualizations and the final model evaluation.
-
-## Results
-The logistic regression model achieved an overall accuracy of 97% on the testing data split.
