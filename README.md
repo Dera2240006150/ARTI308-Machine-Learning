@@ -15,9 +15,9 @@ This repository contains the laboratory solution for the K-Nearest Neighbors ass
 
 ## Technologies Used
 * **Python 3**
-* **Pandas & NumPy** (Data manipulation and analysis)
-* **Matplotlib & Seaborn** (Data visualization)
-* **Scikit-Learn** (Machine Learning modeling and evaluation)
+* **Pandas & NumPy** 
+* **Matplotlib & Seaborn** 
+* **Scikit-Learn** 
 
 ## How to Run
 To run this project locally:
