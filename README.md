@@ -3,9 +3,6 @@
 ## Description
 This repository contains the laboratory solution for the K-Nearest Neighbors assignment for ARTI308 - Machine Learning. The objective of this project is to build and optimize a KNN classifier to predict target classes based on a set of anonymized feature data.
 
-## Author
-**Dera Aldosari** (ID: 2240006150)
-
 ## Repository Structure
 * `KNN_AssignmentSolution.ipynb`: The main Jupyter Notebook containing the data exploration, model training, parameter tuning, and final evaluation.
 * `KNN_Project_Data`: The dataset used to train and test the model.
