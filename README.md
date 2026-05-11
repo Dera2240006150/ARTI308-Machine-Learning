@@ -35,5 +35,3 @@ Ensure you have the following Python libraries installed to run the notebook:
    * Parameter grid searched: `{'C': [0.1, 1, 10, 100], 'gamma': [1, 0.1, 0.01, 0.001]}`.
    * Retrained and evaluated the tuned model to ensure robust classification.
 
-## Execution
-To reproduce this lab, open the Jupyter Notebook and execute the cells sequentially.
