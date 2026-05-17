@@ -25,4 +25,4 @@ Through clustering, the following customer profiles were identified:
 ## Tech Stack
 * **Language:** Python 3
 * **Environment:** Jupyter Notebook
-* **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn` (standard data science stack)
+* **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
