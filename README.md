@@ -26,9 +26,3 @@ Through clustering, the following customer profiles were identified:
 * **Language:** Python 3
 * **Environment:** Jupyter Notebook
 * **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn` (standard data science stack)
-
-## How to Run
-1. Clone the repository.
-2. Ensure you have the required libraries installed (`pip install pandas numpy scikit-learn matplotlib seaborn`).
-3. Download the `CC_GENERAL.csv` dataset from Kaggle and place it in the same directory as the notebook.
-4. Open and run `02_Credit_Card_Customer_Segmentation.ipynb` in Jupyter Notebook or Jupyter Lab.
